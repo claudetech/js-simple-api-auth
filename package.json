@@ -1,0 +1,49 @@
+{
+  "name": "webpack-starter",
+  "version": "0.1.0",
+  "description": "Seed repository for webpack",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "css-loader": "^0.9.0",
+    "exports-loader": "^0.6.2",
+    "expose-loader": "^0.6.0",
+    "gulp": "^3.8.10",
+    "gulp-webpack": "^1.0.0",
+    "imports-loader": "^0.6.3",
+    "karma": "^0.12.25",
+    "karma-chai": "^0.1.0",
+    "karma-mocha": "^0.1.9",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-sinon": "^1.0.3",
+    "karma-sourcemap-loader": "^0.3.0",
+    "karma-webpack": "^1.3.1",
+    "lodash": "^2.4.1",
+    "mocha": "^2.0.1",
+    "sinon": "^1.12.1",
+    "style-loader": "^0.8.2",
+    "webpack": "^1.4.13",
+    "webpack-dev-server": "^1.6.5"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuvistavie/webpack-starter"
+  },
+  "keywords": [
+    "webpack",
+    "seed",
+    "starter",
+    "gulp"
+  ],
+  "author": "Daniel Perez <daniel@claudetech.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuvistavie/webpack-starter/issues"
+  },
+  "homepage": "https://github.com/tuvistavie/webpack-starter"
+}

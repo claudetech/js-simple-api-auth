@@ -1,0 +1,24 @@
+{
+  "name": "js-simple-api-auth",
+  "version": "0.1.0",
+  "description": "Token based API authentication library",
+  "authors": [
+    "Daniel Perez <daniel@claudetech.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/claudetech/js-simple-api-auth",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "moment": "~2.8.3",
+    "cryptojslib": "~3.1.2",
+    "lodash": "~2.4.1"
+  }
+}
